@@ -9,28 +9,28 @@ This repository contains structured notes covering DBMS concepts, SQL queries, d
 It is intended for:
 
 CSE/IT students preparing for placements
-Interview preparation (TCS, Infosys, Accenture, Wipro, Cognizant, Capgemini, etc.)
 Quick revision before technical rounds
 Learning PostgreSQL and Oracle SQL fundamentals
 
-📚 Topics Covered
-Introduction to DBMS
-Relational Model & Keys
-ER Model
-SQL Basics (DDL, DML, DCL, TCL)
-SQL Queries
-Joins
-Aggregate Functions & GROUP BY
-Subqueries
-Views, Indexes & Sequences
-Constraints
-Normalization
-Transactions & ACID Properties
-Concurrency Control
-Deadlocks
-Indexing & Hashing
-Stored Procedures, Functions & Triggers
-Relational Algebra
-NoSQL vs SQL
-PostgreSQL & Oracle Specific Features
-Top Placement Interview Questions
+## 📚 Topics Covered
+
+- Introduction to DBMS
+- Relational Model & Keys
+- ER Model
+- SQL Basics (DDL, DML, DCL, TCL)
+- SQL Queries
+- Joins
+- Aggregate Functions & GROUP BY
+- Subqueries
+- Views, Indexes & Sequences
+- Constraints
+- Normalization
+- Transactions & ACID Properties
+- Concurrency Control
+- Deadlocks
+- Indexing & Hashing
+- Stored Procedures, Functions & Triggers
+- Relational Algebra
+- NoSQL vs SQL
+- PostgreSQL & Oracle Specific Features
+- Top Placement Interview Questions
